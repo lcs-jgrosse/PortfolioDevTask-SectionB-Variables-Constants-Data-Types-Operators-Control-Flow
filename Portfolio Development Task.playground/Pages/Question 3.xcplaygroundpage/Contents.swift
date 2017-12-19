@@ -21,7 +21,12 @@
  
  */
 // Answer question 3 below
-
+var headShavedCount : Int = 12
+var runTrainingCount : Int = 73
+let hairDonationAmount : Double = 55.75 * Double(headShavedCount)
+let runTrainingDonationAmount : Double = 15.35 * Double(runTrainingCount)
+print("headShavedCount and runTrainingCount are Integers, because they count whole people so a whole number data type is needed.")
+print("hairDonationAmount and runTrainingDonationAmount are Doubles, because they give money with cents, so you have to keeo track of that")
 /*:
  ## Now share your understanding
  
