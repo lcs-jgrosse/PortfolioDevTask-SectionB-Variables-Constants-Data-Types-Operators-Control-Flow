@@ -24,10 +24,10 @@
 var dateOfMeasurement : Int = 0
 var timeOfMeasurement : Int = 0
 var hightOfSnow : Double = 0.0
-var totalSnow : Double = 0.0
+let totalSnow : Double = 0.0 + hightOfSnow
 print("The date and time changes throughout the experiment, so they have to be variables.")
 print("The hight of snow will change too, so it has to be a variable.")
-print("The ammount of total Snow fall will change hourly so it should be a constant too.")
+print("The ammount of total Snow fall will change hourly so it should be a constant.")
 /*:
  ## Now share your understanding
  
