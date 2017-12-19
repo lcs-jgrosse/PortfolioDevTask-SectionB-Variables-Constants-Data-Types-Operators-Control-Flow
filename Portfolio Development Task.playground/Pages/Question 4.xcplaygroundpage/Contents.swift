@@ -30,6 +30,9 @@
  
  */
 // Answer question 4 below
+var totalMoneyIHaveEarned : Double = 0.0
+totalMoneyIHaveEarned - 0.1
+totalMoneyIHaveEarned + 6.75
 
 /*:
  ## Now share your understanding
